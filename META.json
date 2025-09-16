@@ -1,0 +1,61 @@
+{
+  "category": "blockchain",
+  "created_date": "2025-09-15T22:48:57.393817",
+  "default_ports": [
+    80,
+    443,
+    10002
+  ],
+  "dependencies": [],
+  "description": "corda is a free and open-source blockchain platform. R3 Corda provides blockchain platform for business",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/blockchain/corda",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/blockchain/corda",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.393840",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "corda",
+  "repository_url": "https://github.com/howtomgr/corda",
+  "spec_version": "2.0",
+  "subcategory": "blockchain",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "blockchain",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "corda Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/blockchain/corda"
+}
